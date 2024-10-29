@@ -1,1 +1,1 @@
-# Here are some datasets to implements different types of Machine Learning & Deep Learning Algorithms
+# Here are some datasets used to implement different types of Machine Learning & Deep Learning Algorithms
